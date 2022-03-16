@@ -1,0 +1,7 @@
+C:\Users\KristofKiraly\source\repos\Practice_01\Practice_03\bin\Debug\Practice_03.exe.config
+C:\Users\KristofKiraly\source\repos\Practice_01\Practice_03\bin\Debug\Practice_03.exe
+C:\Users\KristofKiraly\source\repos\Practice_01\Practice_03\bin\Debug\Practice_03.pdb
+C:\Users\KristofKiraly\source\repos\Practice_01\Practice_03\obj\Debug\Practice_03.csprojAssemblyReference.cache
+C:\Users\KristofKiraly\source\repos\Practice_01\Practice_03\obj\Debug\Practice_03.csproj.CoreCompileInputs.cache
+C:\Users\KristofKiraly\source\repos\Practice_01\Practice_03\obj\Debug\Practice_03.exe
+C:\Users\KristofKiraly\source\repos\Practice_01\Practice_03\obj\Debug\Practice_03.pdb
